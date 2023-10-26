@@ -1,5 +1,5 @@
 # MUCK Trivia
-Trivia game for the video game MUCK developed by Dani.\
+Trivia game developed using Code.org's App Lab for the video game _MUCK_.\
 Features three difficulty options with questions that test you on a variety of aspects about the game.\
 Developed November 2021 - January 2022.
 
