@@ -13,3 +13,6 @@ Developed November 2021 - January 2022.
 3. Change the directory to the folder containing the unzipped contains _(example: cd Downloads/MUCK-Trivia-main)_
 4. Enter command `python3 -m http.server`
 5. Go to URL `localhost:8000` in your browser
+
+# Preview
+![The first screen of the application.](https://i.imgur.com/rXEV8B6.png)
